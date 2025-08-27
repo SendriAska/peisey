@@ -125,4 +125,6 @@ class Event
             echo $e->getMessage();
         }
     }
+
+    // public function 
 }
