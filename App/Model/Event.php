@@ -127,4 +127,5 @@ class Event
     }
 
     // public function 
+    //Je fais des fonctions publics
 }
